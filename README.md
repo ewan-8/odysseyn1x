@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://gist.github.com/raspberryenvoie/586dbef790b752cabda3c50a0a169f6d/raw/838909cd160ba8e010c7b72618a71f84aa45d0aa/odysseyn1x-logo.png" alt="logo">
+    <img src="https://gist.github.com/ewan-8/586dbef790b752cabda3c50a0a169f6d/raw/838909cd160ba8e010c7b72618a71f84aa45d0aa/odysseyn1x-logo.png" alt="logo">
 </p>
 <br>
 <p align="center">
