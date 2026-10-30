@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://gist.github.com/ewan-8/586dbef790b752cabda3c50a0a169f6d/raw/838909cd160ba8e010c7b72618a71f84aa45d0aa/odysseyn1x-logo.png" alt="logo">
+    <img src="https://gist.githubusercontent.com/ewan-8/586dbef790b752cabda3c50a0a169f6d/raw/838909cd160ba8e010c7b72618a71f84aa45d0aa/odysseyn1x-logo.png" alt="logo">
 </p>
 <br>
 <p align="center">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-    <img src="https://gist.github.com/raspberryenvoie/c2e1423c7fe02cff68c392427a47de04/raw/fe481f35bec02e91f0392f5ff3f086ff8b4298aa/odysseyn1x_screenshot.png" alt="screenshot" width="650">
+    <img src="https://gist.githubusercontent.com/ewan-8/c2e1423c7fe02cff68c392427a47de04/raw/fe481f35bec02e91f0392f5ff3f086ff8b4298aa/odysseyn1x_screenshot.png" alt="screenshot" width="650">
 </p>
 
 -------
